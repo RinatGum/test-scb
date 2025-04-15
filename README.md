@@ -1,4 +1,4 @@
-# Testovoe Sobcombank
+# Testovoe Sovcombank
 
 Этот проект представляет собой тестовое задание, выполненное с использованием Vite, SCSS и JavaScript.
 
