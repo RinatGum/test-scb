@@ -1,6 +1,7 @@
 # Testovoe Sovcombank
 
 Этот проект представляет собой тестовое задание, выполненное с использованием Vite, SCSS и JavaScript.
+[test-scb.vercel.app](https://test-scb.vercel.app/)
 
 ## Структура проекта
 
